@@ -1,11 +1,19 @@
 # basic-express-server
 
 
-- [Go-to-Heroku-App-main-branch](https://ruba-server-deploy-prod.herokuapp.com/)
+- [Go-to-Heroku-App-main-branch](https://basic-server-deploy.herokuapp.com/)
 
-- [Go-to-Github](https://github.com/RubaBanat/server-deployment-practice/actions)
+- [Go-to-Github](https://github.com/RubaBanat/basic-express-server/actions)
 
-- [Pull-request](https://github.com/RubaBanat/server-deployment-practice/pull/2)
+- [Pull-request]()
+
+---
+
+
+## Data Flow Diagram
+
+
+![diagram](imgs/Untitled.jpg)
 
 ---
 
@@ -36,13 +44,7 @@ When it completes, go to the Heroku app URL and open your server in the browser,
 - When that process completes, open your app in the browser to prove it.
 
 
----
 
-
-## Data Flow Diagram
-
-
-![diagram](imgs/Untitled-Diagram.jpg)
 
 ---
 
