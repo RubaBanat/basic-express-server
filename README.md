@@ -5,7 +5,7 @@
 
 - [Go-to-Github](https://github.com/RubaBanat/basic-express-server/actions)
 
-- [Pull-request]()
+- [Pull-request](https://github.com/RubaBanat/basic-express-server/pull/2)
 
 ---
 
